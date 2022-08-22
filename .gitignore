@@ -1,1 +1,2 @@
 Secret.txt
+# "*.txt" means all file with txt extension will be hidden.
